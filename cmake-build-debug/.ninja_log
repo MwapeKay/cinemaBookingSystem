@@ -1,0 +1,15 @@
+# ninja log v5
+865	1106	7100226999716589	untitled13.exe	e55055e6109ddf99
+7	789	7100226421239441	CMakeFiles/untitled13.dir/main.cpp.obj	5f29ec71686d6357
+47	1497	7100203784438785	CMakeFiles/untitled13.dir/Movies.cpp.obj	66b72295f2a83854
+1	624	7100356850500408	build.ninja	25a9002af9ed45f1
+26	862	7100226997315666	CMakeFiles/untitled13.dir/Bookings.cpp.obj	9da608ec543e72ac
+61	732	7100377744673755	CMakeFiles/untitled13.dir/ticket.cpp.obj	fb3052675c9bcf17
+31	1253	7100377749067188	CMakeFiles/untitled13.dir/Bookings.cpp.obj	9da608ec543e72ac
+53	1353	7100377750788953	CMakeFiles/untitled13.dir/Schedule.cpp.obj	44a99722d1c5a3ff
+46	1383	7100377750984099	CMakeFiles/untitled13.dir/Screen.cpp.obj	3ae9c6f105309f29
+37	1414	7100377751564634	CMakeFiles/untitled13.dir/Movies.cpp.obj	66b72295f2a83854
+18	1668	7100377754140629	CMakeFiles/untitled13.dir/main.cpp.obj	5f29ec71686d6357
+19	805	7100404464424438	CMakeFiles/untitled13.dir/main.cpp.obj	5f29ec71686d6357
+24	1573	7100406357794832	CMakeFiles/untitled13.dir/Screen.cpp.obj	3ae9c6f105309f29
+1576	2035	7100406362158881	untitled13.exe	e7009fda797b74ed

@@ -1,0 +1,6 @@
+1,Avengers: Endgame,Action,140
+2,Spider-Man: Far From Home,Action,140
+3,The Flash,Action,140
+4,Shang-Chi and the Legend of the Ten Rings,Action,132
+5,Spider-Man: No Way Home,Action,148
+

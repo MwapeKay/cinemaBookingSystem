@@ -1,0 +1,5 @@
+1, Avengers: Endgame, Action-packed superhero film, Action, 140, Robert Downey Jr., Marvel Studios, 26th April 2019
+2, Spider-Man: Far From Home, Action-adventure superhero film, Action, 140, Tom Holland, Sony Pictures Releasing, 2nd July 2019
+3, The Flash, the scarlet speedster film, Action, 140, Scarlett Johansson, Marvel Studios, 14th June 2023
+4, Shang-Chi and the Legend of the Ten Rings, Superhero martial arts film, Action, 132, Simu Liu, Marvel Studios, 3rd September 2021
+5, Spider-Man: No Way Home, Action-adventure superhero film, Action, 148, Tom Holland, Sony Pictures Releasing, 17th December 2021

@@ -1,0 +1,8 @@
+Number of Tickets: 2
+Movie Choice: 1
+Date: 1111
+Time: 11111
+Total Cost: 19
+Payment Type: cash
+
+1,1,1,,1111111,1111,10
